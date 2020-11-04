@@ -51,7 +51,6 @@ dependency-reduced-pom.xml
 **/config_local/flink_data*
 
 build.sh
-run.sh
 config_local/flink-conf-custom.yml
 
 build.sh

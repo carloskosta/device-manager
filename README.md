@@ -51,7 +51,7 @@ mvn test
 
 ## Usage
 ```bash
-. \run.sh
+.\run.sh
 ```
 
 
